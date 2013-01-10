@@ -1,0 +1,15 @@
+# Plugin information
+name: "Php higtlight"
+description: "Plugin para colorear el codigo PHP."
+version: "1.4.3"
+framework_version: "2.0"
+dependencies: ""
+notes: ""
+# Author information
+author: "Aidan Lister"
+email: "aidan@php.net"
+site: ""
+# Legal information
+company: ""
+copyright: ""
+license: ""
